@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 nav{
     background-color: #FC7B03;
     padding: 15px 50px;
@@ -12,21 +13,25 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+
 nav .logo a{
     text-decoration: none;
     color: #fff;
     font-size: 35px;
     font-weight: 600;
 }
+
 nav ul{
     display: flex;
     align-items: center;
     list-style: none;
     padding: 10px;
 }
+
 nav li{
     margin-left: 7px;
 }
+
 nav li a{
     text-decoration: none;
     color: #fff;
@@ -36,10 +41,12 @@ nav li a{
     border-radius: 5px;
     transition: 0.3s;
 }
+
 nav li a:hover{
     background-color: white;
     color: black;
 }
+
 .banner{
     height: 130vh;
     background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url(179-1795047_sunset-mountain-wallpaper-4k.jpg);
@@ -51,16 +58,13 @@ nav li a:hover{
     justify-content: center;
     text-align: center;
 }
+
 .texto .titulo{
     color: #fff;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 300;
 }
-.texto .sub_titulo{
-    color: #fff;
-    font-size: 58px;
-    font-weight: 600;
-}
+
 .texto .botoes{
     margin-top: 30px;
 }
