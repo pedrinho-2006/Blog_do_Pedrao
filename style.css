@@ -68,6 +68,7 @@ nav li a:hover{
 .texto .botoes{
     margin-top: 30px;
 }
+
 .texto .botoes button{
     height: 55px;
     width: 170px;
@@ -81,15 +82,18 @@ nav li a:hover{
     outline: none;
     transition: 0.3s;
 }
+
 .texto .botoes button.n-overlay{
     color: white;
     background: none;
     border: 2px solid white;
 }
+
 .texto .botoes button.n-overlay:hover{
     color: black;
     background-color: white;
 }
+
 .texto .botoes button.overlay{
     background: white;
     color: black;
@@ -106,6 +110,7 @@ nav li a:hover{
         transform: scale(1);
     }
 }
+
 .overlay-button {
     display: inline-block;
     background-color: white;
