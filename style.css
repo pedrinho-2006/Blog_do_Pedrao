@@ -91,7 +91,7 @@ nav li a:hover{
     background-color: white;
 }
 .texto .botoes button.overlay{
-    background: rgb(255, 0, 0);
+    background: rgb(0, 255, 213);
     color: black;
     animation: vibrar 0.8s ease-in-out infinite both;
 }
