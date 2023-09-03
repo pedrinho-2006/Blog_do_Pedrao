@@ -145,3 +145,7 @@ nav li a:hover{
 .n-overlay a{
     color: white;
 }
+
+.quadrado1 {
+    justify-content: left;
+}
