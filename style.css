@@ -23,7 +23,7 @@ nav .logo a{
 
 nav ul{
     display: flex;
-    text-align: left;
+    text-align: right;
     list-style: none;
     padding: 10px;
 }
