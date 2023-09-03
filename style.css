@@ -85,7 +85,7 @@ nav li a:hover{
 
 .banner4{
     height: 120vh;
-    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url(tomb\ raider.jpg);
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url(Vendas_de_The_Last_of_Us_aumentaram_mais_de_30.webp));
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -93,6 +93,7 @@ nav li a:hover{
     align-items: center;
     justify-content: center;
     text-align: center;
+}
 
 .texto .titulo{
     color: #fff;
