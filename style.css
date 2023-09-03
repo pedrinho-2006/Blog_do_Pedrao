@@ -71,6 +71,30 @@ nav li a:hover{
     text-align: center;
 }
 
+.banner3{
+    height: 120vh;
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url(tomb\ raider.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner4{
+    height: 120vh;
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url(concept-art-minecraft-biome-swamp2-1024x519.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .texto .titulo{
     color: #fff;
     font-size: 30px;
