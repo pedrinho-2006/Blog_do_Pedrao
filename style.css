@@ -143,8 +143,8 @@ nav li a:hover{
 }
 
 .texto .botoes button.overlay{
-    background: rgb(0, 0, 0);
-    color: #ffffff;
+    background: white;
+    color: rgb(255, 255, 255);
     animation: vibrar 0.8s ease-in-out infinite both;
 }
 @keyframes vibrar {
