@@ -107,6 +107,11 @@ nav li a:hover{
     text-align: center;
 }
 
+.Fortnite{
+    height: 30px;
+    padding: 25px;
+}
+
 .texto .titulo{
     color: #fff;
     font-size: 30px;
