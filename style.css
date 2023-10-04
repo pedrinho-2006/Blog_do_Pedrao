@@ -176,7 +176,6 @@ nav li a:hover{
     font-weight: 500;
     border-radius: 5px;
     text-decoration: none;
-    transition: background-color 0.3s, color 0.3s;
 }
 
 .overlay-button:hover {
