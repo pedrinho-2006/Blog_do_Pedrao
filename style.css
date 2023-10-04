@@ -178,6 +178,12 @@ nav li a:hover{
     text-decoration: none;
 }
 
+.overlay-button:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
 .n-overlay a{
     color: white;
 }
