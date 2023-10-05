@@ -169,7 +169,6 @@ nav li a:hover{
     padding: 8px 15px;
     border-radius: 5px;
     transition: 0.3s; 
-    cursor: pointer;
 }
 
 .n-overlay a{
