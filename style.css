@@ -142,6 +142,7 @@ nav li a:hover{
 }
 
 .texto .botoes button{
+    color: aqua;
     height: 55px;
     width: 170px;
     border-radius: 5px;
