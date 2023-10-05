@@ -165,8 +165,14 @@ nav li a:hover{
 .texto .botoes button.n-overlay:hover{
     color: rgb(0, 0, 0);
     background: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: 0.3s;
 }
 
 .n-overlay a{
     color: white;
+    transition: 0.3s
 }
