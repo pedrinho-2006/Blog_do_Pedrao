@@ -158,7 +158,7 @@ nav li a:hover{
 .texto .botoes button.n-overlay{
     color: rgb(255, 255, 255);
     background: black;
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
 
 }
 
@@ -174,4 +174,8 @@ nav li a:hover{
 
 .n-overlay a{
     color: rgb(255, 255, 255);
+}
+
+.n-overlay a:hover{
+    color: rgb(0, 0, 0);
 }
