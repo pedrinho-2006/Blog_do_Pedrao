@@ -161,7 +161,7 @@ nav li a:hover{
 
 }
 
-.texto .botoes button.n-overlay:hover{
+.texto .botoes button.n-overlay a:hover{
     color: rgb(0, 0, 0);
     background: rgb(255, 255, 255);
     border: 2px solid rgb(0, 0, 0);
