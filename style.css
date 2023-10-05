@@ -174,5 +174,9 @@ nav li a:hover{
 
 .n-overlay a{
     color: white;
-    transition: 0.3s
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: 0.3s;
 }
