@@ -174,8 +174,10 @@ nav li a:hover{
 
 .n-overlay a{
     color: rgb(255, 255, 255);
+    background-color: black;
 }
 
 .n-overlay a:hover{
     color: rgb(0, 0, 0);
+    background-color: white;
 }
