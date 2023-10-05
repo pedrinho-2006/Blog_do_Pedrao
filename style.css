@@ -166,18 +166,6 @@ nav li a:hover{
     background: none;
 }
 
-.overlay-button {
-    display: inline-block;
-    background-color: none;
-    color: black;
-    border: none;
-    padding: 10px 20px;
-    font-size: 30px;
-    font-weight: 500px;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
 .n-overlay a{
     color: white;
 }
