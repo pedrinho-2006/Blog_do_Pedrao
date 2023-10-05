@@ -33,7 +33,7 @@ nav li{
 }
 
 nav li a{
-    text-decoration: aqua;
+    text-decoration: none;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
