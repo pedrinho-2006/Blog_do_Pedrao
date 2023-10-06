@@ -25,7 +25,9 @@ nav .logo a{
     color: #fff;
     font-size: 35px;
     font-weight: 600;
-    text-align: right;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 nav ul{
