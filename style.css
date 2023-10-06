@@ -185,3 +185,8 @@ nav li a:hover{
     color: #ffffff;
     font-size: 22px;
 }
+
+.confirmar {
+    color: #000000;
+    background-color: green;
+}
