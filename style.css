@@ -177,12 +177,12 @@ nav li a:hover{
 
 .n-overlay a{
     color: #000000;
-    font-size: 22px;
+    font-size: 24px;
     transition: 0.3s;
 }
 
 .n-overlay a:hover{
     color: #ffffff;
-    font-size: 22px;
+    font-size: 24px;
 }
 
