@@ -202,3 +202,7 @@ nav li a:hover{
     font-size: 13px;
     border: 2px color(black);
 }
+
+.mine{
+    height: 12vh;
+}
