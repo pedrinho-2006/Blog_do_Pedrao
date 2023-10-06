@@ -17,7 +17,7 @@ nav{
 nav .logo a{
     text-decoration: none;
     color: #fff;
-    font-size: 2px;
+    font-size: 35px;
     font-weight: 600;
 }
 
@@ -177,10 +177,12 @@ nav li a:hover{
 
 .n-overlay a{
     color: #000000;
+    font-size: 13px;
     transition: 0.3s;
 }
 
 .n-overlay a:hover{
     color: #ffffff;
+    font-size: 13px;
 }
 
