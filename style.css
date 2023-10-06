@@ -176,7 +176,6 @@ nav li a:hover{
 }
 
 .n-overlay a{
-    color: rgb(255, 255, 255);
-    transition: 0.3s;
+    color: #FC7B03;
 }
 
