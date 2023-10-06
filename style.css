@@ -113,7 +113,12 @@ nav li a:hover{
     justify-content: center;
     text-align: center;
 }
-    
+.texto .titulo{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 300;
+}
+
 .texto .titulo2{
     color: #ffffff;
     font-size: 30px;
@@ -138,11 +143,7 @@ nav li a:hover{
     font-weight: 300;
 }
 
-.texto .titulo{
-    color: #ffffff;
-    font-size: 30px;
-    font-weight: 300;
-}
+
 
 .texto .botoes{
     margin-top: 30px;
