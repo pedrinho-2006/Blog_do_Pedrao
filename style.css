@@ -176,11 +176,11 @@ nav li a:hover{
 }
 
 .n-overlay a{
-    color: #fffdfd;
+    color: #000000;
     transition: 0.3s;
 }
 
 .n-overlay a:hover{
-    color: #000000;
+    color: #ffffff;
 }
 
