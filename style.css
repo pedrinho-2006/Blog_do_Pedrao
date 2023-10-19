@@ -118,6 +118,7 @@ nav li a:hover{
     color: #ffffff;
     font-size: 30px;
     font-weight: 300;
+    padding-left: 35px;
 }
 
 .texto .titulo2{
@@ -205,7 +206,7 @@ nav li a:hover{
 
 .mine{
     height: 19vh;
-    padding-left: 35px;
+
 }
 
 .tetris{
