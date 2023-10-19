@@ -144,7 +144,11 @@ nav li a:hover{
     font-weight: 300;
 }
 
-
+.texto .titulo6{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 300;
+}
 
 .texto .botoes{
     margin-top: 30px;
